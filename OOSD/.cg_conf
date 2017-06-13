@@ -1,0 +1,1 @@
+{"id":"jdbc","ext":"java","version":"JDK 1.7.0 with MySQL","compile":"javac JDBCExample.java","execute":"java -Xmx128M -Xms16M JDBCExample","preview":"","command":"","file":"/home/cg/src/samples/JDBCExample.java","url":"compile_jdbc_online.php","mode":"java"}
